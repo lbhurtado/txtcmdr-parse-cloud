@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "txtcmdr"
+    },
+    "txtcmdr": {
+      "applicationId": "U6CaTTyJ2AGXWLdF3bfl89eWYR2BbMWrEE73Ynsd"
+    }
+  }
+}
